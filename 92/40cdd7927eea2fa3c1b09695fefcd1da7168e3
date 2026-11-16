@@ -1,0 +1,22 @@
+api-reference/server/services/s2s/rime.mdx
+  h_018052b8652914 1-267
+api-reference/server/services/supported-services.mdx
+  h_018052b8652914 185
+docs.json
+  h_018052b8652914 592
+llms-full.txt
+  h_018052b8652914 38154,76337-76604,97576,97580
+llms.txt
+  h_018052b8652914 520
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9240cdd7927eea2fa3c1b09695fefcd1da7168e3",
+  "prompts": {},
+  "humans": {
+    "h_018052b8652914": {
+      "author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
